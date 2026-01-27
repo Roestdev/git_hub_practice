@@ -1,7 +1,6 @@
 fn main() {
-    println!("Hello, world!");
-    //
-    // modified inworking dir
-    println!("Hello, world!");
-    // checkout dev
+    // bases line in branch main
+    // version 100.0.0
+    println!("BASELINE");
+
 }
